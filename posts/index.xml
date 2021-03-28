@@ -5,16 +5,24 @@
     <link>https://huangchuxian.github.io/posts/</link>
     <description>Recent content in Posts on 黄出贤的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://huangchuxian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://huangchuxian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git指令</title>
+      <link>https://huangchuxian.github.io/2021/git%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://huangchuxian.github.io/2021/git%E6%8C%87%E4%BB%A4/</guid>
+      <description>git config --global --unset http.proxy #取消代理 git commit --allow-empty-message -m &amp;quot;&amp;quot; #不加备注</description>
+    </item>
+    
     <item>
       <title>Creating a New Theme</title>
       <link>https://huangchuxian.github.io/2014/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://huangchuxian.github.io/2014/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme. We&amp;rsquo;ll start with creating a new site with</description>
     </item>
     
   </channel>
