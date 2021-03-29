@@ -1,37 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - </title>
+        <title>所有文章 - </title>
         <link>https://huangchuxian.github.io/posts/</link>
-        <description>All Posts | </description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 28 Mar 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://huangchuxian.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>https://huangchuxian.github.io/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://huangchuxian.github.io/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
-</item><item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>https://huangchuxian.github.io/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://huangchuxian.github.io/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>uBlogger</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item><item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://huangchuxian.github.io/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://huangchuxian.github.io/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item><item>
-    <title>Emoji Support</title>
-    <link>https://huangchuxian.github.io/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>upagge.en</author>
-    <guid>https://huangchuxian.github.io/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item><item>
+        <description>所有文章 | </description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 28 Mar 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://huangchuxian.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>git指令</title>
     <link>https://huangchuxian.github.io/git%E6%8C%87%E4%BB%A4/</link>
     <pubDate>Sun, 28 Mar 2021 00:00:00 &#43;0000</pubDate>

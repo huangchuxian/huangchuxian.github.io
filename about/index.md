@@ -1,4 +1,3 @@
 # 
 
-* Socialist successor
-
+* 社会主义接班人
