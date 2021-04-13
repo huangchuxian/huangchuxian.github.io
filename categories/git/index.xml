@@ -9,6 +9,6 @@
     <pubDate>Sun, 28 Mar 2021 00:00:00 &#43;0000</pubDate>
     <author>黄出贤</author>
     <guid>https://huangchuxian.github.io/git%E6%8C%87%E4%BB%A4/</guid>
-    <description><![CDATA[1 2 git config --global --unset http.proxy #取消代理 git commit --allow-empty-message -m &#34;&#34; #不加备注]]></description>
+    <description><![CDATA[1 2 3 4 5 6 7 8 git config --global --unset http.proxy #取消代理 git commit --allow-empty-message -m &#34;&#34; #不加备注 # Failed to connect to github.com port 443: Timed out git config --global --unset http.proxy git config --global --unset https.proxy # OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054 git config http.sslVerify &#34;false&#34;]]></description>
 </item></channel>
 </rss>
